@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.doxia:doxia-decoration-model:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.doxia/doxia-decoration-model/1.0/40cc4c68fcc197885c4d98f89588bd0445c7449/doxia-decoration-model-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.doxia/doxia-decoration-model/1.0/93334fea4a0391b43d3265fa903e2365d42b4799/doxia-decoration-model-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

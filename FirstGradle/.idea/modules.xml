@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstGradle.iml" filepath="$PROJECT_DIR$/FirstGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstGradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstGradle_main.iml" group="FirstGradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstGradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstGradle_test.iml" group="FirstGradle" />
+    </modules>
+  </component>
+</project>

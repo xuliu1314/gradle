@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.doxia:doxia-module-apt:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.doxia/doxia-module-apt/1.0/de385703452b5b9029504df97b763f7f48e8bf42/doxia-module-apt-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.doxia/doxia-module-apt/1.0/16d77bfe98b3f64a579c45556d7a2e3587d04578/doxia-module-apt-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
